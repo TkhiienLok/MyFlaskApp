@@ -110,6 +110,7 @@ venv.bak/
 /newvenv
 myvenv/
 newvenv/
+/unroll
 
 # Spyder project settings
 .spyderproject
